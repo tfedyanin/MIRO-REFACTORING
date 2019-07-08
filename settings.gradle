@@ -1,0 +1,5 @@
+rootProject.name = 'api'
+include 'ect2'
+include 'initializer'
+include 'repository'
+
